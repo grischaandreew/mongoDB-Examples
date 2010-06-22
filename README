@@ -1,0 +1,8 @@
+# Use
+
+`$ ./mongo
+load('blog.js');
+setup();
+generate_more_testdata();
+tests();
+cleanup();`
